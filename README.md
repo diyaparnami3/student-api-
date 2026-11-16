@@ -31,3 +31,4 @@ Example POST body:
   "course": "CSE"
 }
 ```
+Jenkins SCM polling test
