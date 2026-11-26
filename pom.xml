@@ -2,7 +2,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-         <description>Student API - Jenkins CI/CD Practical</description>
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
@@ -16,7 +15,7 @@
     <artifactId>student-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>student-api</name>
-    <description>Simple Spring Boot Student REST API</description>
+    <description>Basic CICD Practical</description>
 
     <properties>
         <java.version>17</java.version>
